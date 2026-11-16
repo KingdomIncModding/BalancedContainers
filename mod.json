@@ -17,7 +17,7 @@
                                       "mod",
                                       "foundation"
                                   ],
-                       "latestTag":  null
+                       "latestTag":  "v0.1.0"
                    },
     "distribution":  {
                          "nexus":  {
@@ -58,7 +58,7 @@
                                          ]
                     },
     "publishing":  {
-                       "githubReleases":  null,
+                       "githubReleases":  "https://github.com/KingdomIncModding/BalancedContainers/releases/tag/v0.1.0",
                        "nexusMods":  "https://www.nexusmods.com/kingdominc/mods/30"
                    }
 }

@@ -1,5 +1,7 @@
 # Balanced Containers
 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/S6V62AX30M)
+
 Balanced Containers adds live throughput tracking and bottleneck diagnostics directly onto flow containers in Kingdom Inc. Assign an End Product or Currency target to a container—or let regular containers summarize everything running inside them—and spot starved inputs or backed-up outputs at a glance.
 
 ## Features
@@ -46,3 +48,8 @@ Configurable in **Settings -> Mod Config -> Balanced Containers**:
 | GamePlayer.AddCurrency | Postfix | Attributes live currency income (Gold, Mana, Crowns, Requisition, Ducats, etc.) to the active building's rolling rate. |
 | FlowElement.Update / DoManualCraft / DoCollect / QueueCraft / SoldierDied / UpdateQuestProgress | Prefix / Postfix | Measures per-building item and currency throughput and tracks stalls for Starved, Saturated, and Over-Saturated diagnostics. |
 
+## Support
+
+If you enjoy these Kingdom Inc mods and tools, consider supporting development on Ko-fi!
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/S6V62AX30M)

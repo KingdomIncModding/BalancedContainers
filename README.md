@@ -1,6 +1,6 @@
 # Balanced Containers
 
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/S6V62AX30M)
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/urakkaamyx/tip)
 
 Balanced Containers adds live throughput tracking and bottleneck diagnostics directly onto flow containers in Kingdom Inc. Assign an End Product or Currency target to a container—or let regular containers summarize everything running inside them—and spot starved inputs or backed-up outputs at a glance.
 
@@ -52,4 +52,4 @@ Configurable in **Settings -> Mod Config -> Balanced Containers**:
 
 If you enjoy these Kingdom Inc mods and tools, consider supporting development on Ko-fi!
 
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/S6V62AX30M)
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/urakkaamyx/tip)
